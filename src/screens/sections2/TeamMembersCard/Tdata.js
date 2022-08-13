@@ -51,11 +51,25 @@ const Tdata = [
     ],
     name: "Obakeng Namane",
     profile:
-      "https://res.cloudinary.com/creative-power/image/upload/v1655918566/Creative-Power-Org/Bakeng_mt25in.jpg",
+      "https://res.cloudinary.com/creative-power/image/upload/v1660377359/Creative-Power-Org/Bakeng_mt25in.jpg",
     post: "Project Manager Assistant",
   },
   {
     id: 4,
+    desc: [
+      "kabelo is professional teacher with a creative mindset and crytical thinking.",
+      "He is pursuant person when it comes to academic excellence and support, he offers good quality of teaching and learning process. he is ideal person",
+      " who is  most likely expected to change the perception of young teenager in his community mission and vision on how to approach the kind quantity.",
+      "He focused on chnging the lives of young people because they are the one who have to face this path of future after all.",
+      "He uses his analytical skills to develop empirically rigorous research to better meet the needs of all youth.",
+    ],
+    name:"Kabelo Botsane",
+    profile:
+      "https://res.cloudinary.com/creative-power/image/upload/v1660377113/Creative-Power-Org/BotsaneK_i1phng.jpg",
+    post: "Teacher & Program Advisor",
+  },
+  {
+    id: 5,
     desc: [
       "Vasco is an Full Stack Software developer, and the company Founder",
       "I had the privilege of working for Institute of Mine Seismology in a seismic waves ,control and conduct seismic",
@@ -65,7 +79,7 @@ const Tdata = [
     ],
     name:"Vasco Eti",
     profile:
-      "https://res.cloudinary.com/creative-power/image/upload/v1655918554/Creative-Power-Org/EddieV_zgdvzv.jpg",
+      "https://res.cloudinary.com/creative-power/image/upload/v1660377390/Creative-Power-Org/EddieV_zgdvzv.jpg",
     post: "Developer && Web Designer",
   },
 ];

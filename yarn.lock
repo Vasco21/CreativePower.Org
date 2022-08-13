@@ -10410,6 +10410,11 @@
     "tiny-invariant" "^1.0.2"
     "tiny-warning" "^1.0.0"
 
+"react-script-hook@^1.7.0":
+  "integrity" "sha512-GLObryIE0DR8RLA5t6VF76y2pURMZdSaN3FDTgB4oD9gcwYzDE6vzCTp1ruKf9jvduggePb2+kh+o6/8gfjVNA=="
+  "resolved" "https://registry.npmjs.org/react-script-hook/-/react-script-hook-1.7.0.tgz"
+  "version" "1.7.0"
+
 "react-scripts@4.0.0":
   "integrity" "sha512-icJ/ctwV5XwITUOupBP9TUVGdWOqqZ0H08tbJ1kVC5VpNWYzEZ3e/x8axhV15ZXRsixLo27snwQE7B6Zd9J2Tg=="
   "resolved" "https://registry.npmjs.org/react-scripts/-/react-scripts-4.0.0.tgz"

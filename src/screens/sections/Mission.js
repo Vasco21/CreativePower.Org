@@ -30,7 +30,7 @@ const Mission = () => {
                   <p className='service-description'>
                     Helping Young People Achieve Goals!!!
                     We envision an African Where 
-                    Botshabelo Youths are cocdmmunity builder, Valued by everybody can take 
+                    Botshabelo Youths are community builder, Valued by everybody can take 
                     part of he/she own future to play a role of changing life and become, whatever
                     he/she choose to be in the next future.
                     Think out loud about strategies to achieve goals.

@@ -22,6 +22,7 @@ import Insight from "./screens/sections2/Offers"
 import Stories from './screens/sections2/Stories'
 import TeamMembers from "./screens/sections2/TeamMembersCard/Testimonial"
 import AllMembers from "./screens/sections2/AllMembers";
+import Donation from "./screens/sections2/Donation/PopupSample"
 
 function App() {
   const [search, setSearch] = useState("");
@@ -55,6 +56,8 @@ function App() {
         <Route path="/stories" component={Stories}/>
         <Route path="/teamMembers" component={TeamMembers}/>
         <Route path="/members" component={AllMembers}/>
+        <Route path="/payment" component={Donation}/>
+
      
       </main>
       <Footer />
